@@ -1,0 +1,29 @@
+{
+  "name": "regot",
+  "version": "1.0.0",
+  "description": "This app detects your mood based on your speech",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikku120120/ReGOT.git"
+  },
+  "keywords": [
+    "regot",
+    "REGOT",
+    "mooddetector"
+  ],
+  "author": "Nikku120",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sentiment": "^5.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Nikku120120/ReGOT/issues"
+  },
+  "homepage": "https://github.com/Nikku120120/ReGOT#readme"
+}
